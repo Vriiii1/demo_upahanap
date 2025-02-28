@@ -1,0 +1,14 @@
+// models/Apartment.dart
+class Apartment {
+  final String name;
+  final String location;
+  final double price;
+  final String imageUrl; // Add imageUrl
+
+  Apartment({
+    required this.name,
+    required this.location,
+    required this.price,
+    required this.imageUrl, // Add imageUrl
+  });
+}

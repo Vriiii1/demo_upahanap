@@ -1,2 +1,0 @@
-# demo_upahanap
-asdadadawa
